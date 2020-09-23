@@ -6,25 +6,25 @@ title: 'Introduction'
 keywords: 'introduction'
 ---
 
-# Welcome
+# 欢迎
 
-Welcome to the documentation for the Phalcon framework.
+欢迎访问 Phalcon 框架的文档。
 
-## Mission
+## 使命
 
-Our mission is to offer developers an advanced, feature rich tool, which they can use to develop powerful applications with low server consumption and high performance.
+我们的使命是为开发人员提供一个高级的、功能丰富的工具，他们可以使用它来开发具有低服务器消耗和高性能的强大应用程序。
 
-## What is Phalcon
+## Phalcon 是什么
 
-Phalcon is an open source full stack framework for PHP, written as a C-extension. Phalcon is optimized for high performance. Its unique architecture allows the framework to always be memory resident, offering its functionality whenever it's needed, without expensive file stats and file reads that traditional PHP frameworks employ.
+Phalcon 是一个用于 PHP 的开源全栈框架，它以 C 扩展的形式编写。Phalcon 我高性能而优化。其独特的架构，允许框架始终驻留在内存中，在需要时提供其功能，而不需要传统 PHP 框架使用的昂贵开销的文件统计和文件读取。
 
-## Usage
+## 使用
 
-Developers do not need to know the C language to use Phalcon. Its interface is exposed as PHP classes under the `Phalcon` namespace, ready to be used.
+开发人员不需要懂 C 语言就可以使用 Phalcon 。它的接口在' Phalcon '命名空间下作为PHP类公开，随时准备使用。
 
-Phalcon is loosely coupled, allowing developers to use only the objects that they need as glue components based in the needs of their applications.
+Phalcon 是松散耦合的，它允许开发人员根据其应用程序的需要，只使用他们需要的对象作为粘合组件。
 
-> **NOTE**: The translation of the documentation is driven by enthusiasts and contributors. We welcome your participation in the translation effort with new translations and/or corrections. The translations are handled in [GitHub](https://github.com/phalcon/docs) for English, and [Crowdin](https://crowdin.com/project/phalcon-documentation) for other languages
+> **注意**: 文档的翻译是由热心人士和贡献者推动的。我们欢迎您参与新的翻译及更正工作。The translations are handled in [GitHub](https://github.com/phalcon/docs) for English, and [Crowdin](https://crowdin.com/project/phalcon-documentation) for other languages
 {: .alert .alert-info }
 
 You can check our [GitHub](https://github.com/phalcon/cphalcon) project for the code and browse through these documents for usage and functionality.
